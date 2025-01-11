@@ -19,13 +19,16 @@ The SQL script sets up the database schema and populates it with sample data for
 
 This project contains SQL scripts for managing a database.
 
-## Example Query
-```sql
-SELECT * FROM players;
-
-
 ## Getting Started
 
 1. Clone this repository.
 2. Run the SQL scripts on your MySQL server to create and populate the database.
 3. Use your SQL client to interact with the `cms` database.
+
+# SQL Project
+
+This project contains SQL scripts for managing a database.
+
+## Example Query
+```sql
+SELECT * FROM players;
