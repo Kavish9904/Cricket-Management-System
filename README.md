@@ -11,6 +11,11 @@ The CMS consists of the following tables:
 - **Matches**: Stores details about matches between teams, including match date, location, and winner.
 - **Scores**: Stores player performance in matches, including runs scored, wickets taken, and overs bowled.
 
+  ```sql
+-- Example SQL query
+SELECT * FROM players;
+
+
 ## SQL Scripts
 
 The SQL script sets up the database schema and populates it with sample data for players, teams, matches, and scores. It also includes queries to retrieve data from each table.
